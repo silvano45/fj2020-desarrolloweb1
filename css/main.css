@@ -1,0 +1,8 @@
+.negrita{
+    font-weight: bold;
+}
+main#principal{
+    width: 600px;
+    margin: 0 auto 1.2em;
+    background: green;
+}
